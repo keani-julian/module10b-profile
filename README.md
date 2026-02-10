@@ -1,4 +1,5 @@
 # Module 10B – Profile Component with State and Props
+REPO LINK: https://github.com/keani-julian/module10b-profile
 
 ## Description
 This project demonstrates how to use React props and state to build an interactive profile component.
